@@ -1,0 +1,13 @@
+The gold-standard method for diagnosing COVID-19 is the polymerase chain reaction (PCR) test, which detects the coronavirus’s genetic material in a nose or throat swab. Now, a survey of more than 15,000 people has singled out the people most likely to receive false negatives on the test.
+
+Caitlin Dugdale at Massachusetts General Hospital in Boston and her colleagues looked at PCR test results from about 15,000 people who showed COVID-19 symptoms or were thought for other reasons to be infected with SARS-CoV-2. Nearly 2,700 individuals tested negative and had a second PCR test done within 2 weeks.
+
+Among those who received a second test, 60 — or 2.2% — tested positive. Of these, 60% had their initial test either one day or less before symptom onset or more than 7 days after it, suggesting that the PCR test is most likely to yield a false negative in people tested early or late in the course of infection.
+
+People with COVID-19 symptoms who test negative should be retested, especially in areas where the virus is widespread, the researchers say.
+
+A far-reaching study of SARS-CoV-2 transmission in China’s Hunan Province found that the encounters that were most likely to spread the coronavirus were those between members of the same household.
+
+Kaiyuan Sun at the National Institutes of Health in Bethesda, Maryland, Hongjie Yu at Fudan University in Shanghai, China, and their colleagues analysed data from 1,178 people in Hunan who were infected with SARS-CoV-2 and more than 15,000 close contacts of the infected people. The team found that contacts between people who live together posed the greatest risk of transmission, followed by contacts between members of an extended family. The transmission risk was lower still for social contacts and community encounters, such as those on public transport. Every extra day of contact raised transmission risk by 10%, the team found.
+
+The analysis suggests that Hunan’s lockdown actually increased the risk of viral spread within households, whose members spent more time than normal at home together during lockdown. But social and community transmission fell during the same period.
